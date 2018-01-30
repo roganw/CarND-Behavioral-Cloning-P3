@@ -119,7 +119,7 @@ def train_model(model):
     model.fit_generator(train_generator, steps_per_epoch=steps_per_epoch, validation_data=validation_generator,
         validation_steps=validation_steps, epochs=2, workers=1)
 
-    model.save('model2.h5')
+    model.save('model.h5')
 
 
 if __name__ == '__main__':
