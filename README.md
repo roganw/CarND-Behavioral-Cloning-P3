@@ -236,4 +236,4 @@ Generator was used to avoid out of memory, the generator method is defined in mo
 
 ```
 
-The video of testing result on NVIDIA model is `./result.mp4`.
+The video of testing result on NVIDIA model is `./video.mp4`.
